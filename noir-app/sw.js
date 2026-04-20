@@ -1,4 +1,4 @@
-const CACHE = 'noir-v1';
+const CACHE = 'noir-v18';
 const ASSETS = [
   '/index.html',
   '/manifest.json',
